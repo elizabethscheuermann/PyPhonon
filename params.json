@@ -1,0 +1,13 @@
+{
+	"bond_distance_cutoff": 10,
+	"layer_spacing": 1,
+	"in_layer_coupling_strength": 1,
+	"in_layer_coupling_decay": 1,
+	"out_of_layer_coupling_strength": 0.01,
+	"out_of_layer_coupling_decay": 1,
+	"moire_leg_x": 3,
+	"moire_leg_y": 4,
+	"n_momentum_steps": 20,
+	"momentum_loop": ["Gamma", "X", "M"]
+}
+

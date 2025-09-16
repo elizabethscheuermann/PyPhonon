@@ -1,0 +1,6 @@
+Introduce prefactor coupling
+Normalize frequencies according to sum
+lambda = 1
+Track degeneracy close to top of bond (A = 0 -> inf) (fix h)
+Double check band folding
+Masters presentation
